@@ -1,7 +1,10 @@
 package chess_system.application;
 
+import chess_system.application.boardgame.Position;
+
 public class Program {
 	public static void main(String[] args) {
-		System.out.println("Hello world!");
+		Position p = new Position(3,5);
+		System.out.println(p);
 	}
 }
