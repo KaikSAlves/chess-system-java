@@ -1,6 +1,6 @@
 package chess;
 
-import chess_system.application.boardgame.Position;
+import boardgame.Position;
 
 public class ChessPosition {
 	private char column;

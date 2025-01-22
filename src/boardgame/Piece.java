@@ -1,4 +1,4 @@
-package chess_system.application.boardgame;
+package boardgame;
 
 public class Piece {
 	
